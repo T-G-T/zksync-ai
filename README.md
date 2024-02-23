@@ -1,3 +1,5 @@
+# trying to leverage zkSync file for AI training and inference
+
 # zkSync: scaling and privacy engine for Ethereum
 
 [![Logo](zkSyncLogo.svg)](https://zksync.io/)
